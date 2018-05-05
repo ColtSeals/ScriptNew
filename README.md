@@ -1,2 +1,1 @@
-# VpsConf
-Configurar squid and ssh on vps
+# novo script
